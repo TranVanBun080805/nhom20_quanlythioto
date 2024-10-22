@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Object>
+                  
+   
+   
+   
+   
+   <Exam>
+                                    
+      
+      
+      
+      
+      <dateExam>23-12-2024</dateExam>
+                                    
+      
+      
+      
+      
+      <location>Nghệ An</location>
+                                    
+      
+      
+      
+      
+      <examType>Thực Hành</examType>
+                                    
+      
+      
+      
+      
+      <licenseType>C</licenseType>
+                                    
+      
+      
+      
+      
+      <numberOfVehicles>100</numberOfVehicles>
+                                 
+   
+   
+   
+   
+   </Exam>
+               
+   
+   
+   
+   
+   <Exam>
+                              
+      
+      
+      
+      <dateExam>dsfdsvsdf</dateExam>
+                              
+      
+      
+      
+      <location>dsfdsfds</location>
+                              
+      
+      
+      
+      <examType>Lý Thuyết</examType>
+                              
+      
+      
+      
+      <licenseType>B1</licenseType>
+                              
+      
+      
+      
+      <numberOfVehicles>0</numberOfVehicles>
+                           
+   
+   
+   
+   </Exam>
+            
+   
+   
+   
+   <Exam>
+                        
+      
+      
+      <dateExam>dfdsf</dateExam>
+                        
+      
+      
+      <location>dsfsdf</location>
+                        
+      
+      
+      <examType>Lý Thuyết</examType>
+                        
+      
+      
+      <licenseType>B1</licenseType>
+                        
+      
+      
+      <numberOfVehicles>23</numberOfVehicles>
+                     
+   
+   
+   </Exam>
+         
+   
+   
+   <Exam>
+                  
+      
+      <dateExam>dfg</dateExam>
+                  
+      
+      <location>dfgfg</location>
+                  
+      
+      <examType>Lý Thuyết</examType>
+                  
+      
+      <licenseType>B1</licenseType>
+                  
+      
+      <numberOfVehicles>0</numberOfVehicles>
+               
+   
+   </Exam>
+      
+   
+   <Exam>
+            
+      <dateExam>fddfgdfgfdg</dateExam>
+            
+      <location>fdgdffdg</location>
+            
+      <examType>Lý Thuyết</examType>
+            
+      <licenseType>B1</licenseType>
+            
+      <numberOfVehicles>45</numberOfVehicles>
+         
+   </Exam>
+   
+   <Exam>
+      <dateExam>423434</dateExam>
+      <location>343434</location>
+      <examType>Lý Thuyết</examType>
+      <licenseType>C</licenseType>
+      <numberOfVehicles>34343</numberOfVehicles>
+   </Exam>
+</Object>

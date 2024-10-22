@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ObJect>
+            
+   
+   
+   <Vehicle>
+                        
+      
+      
+      <vehicleNumber>37G1-23456</vehicleNumber>
+                        
+      
+      
+      <vehicleInfo>Mec</vehicleInfo>
+                        
+      
+      
+      <examUsage>Thuc Hanh</examUsage>
+                     
+   
+   
+   </Vehicle>
+            
+   
+   
+   <Vehicle>
+                        
+      
+      
+      <vehicleNumber>37G1-23456</vehicleNumber>
+                        
+      
+      
+      <vehicleInfo>Lambo</vehicleInfo>
+                        
+      
+      
+      <examUsage>Thuc Hanh</examUsage>
+                     
+   
+   
+   </Vehicle>
+         
+   
+   
+   <Vehicle>
+                  
+      
+      <vehicleNumber>37G-81729</vehicleNumber>
+                  
+      
+      <vehicleInfo>Ferari</vehicleInfo>
+                  
+      
+      <examUsage>Thực Hành</examUsage>
+               
+   
+   </Vehicle>
+      
+   
+   <Vehicle>
+            
+      <vehicleNumber>36</vehicleNumber>
+            
+      <vehicleInfo>Ferariii</vehicleInfo>
+            
+      <examUsage>Thực hành</examUsage>
+         
+   </Vehicle>
+   
+</ObJect>
